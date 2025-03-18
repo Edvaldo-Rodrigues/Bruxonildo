@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruxonildo here
 - 👀 I’m interested in learn each more about programm languages and art creative development.
-- 🌱 I’m currently learning DSA...
+- 🌱 I’m currently teaching DevOps and DSA...
 - 📫 How to reach me ..
 
 <!---
