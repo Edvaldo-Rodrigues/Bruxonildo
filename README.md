@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bruxonildo here
 - 👀 I’m interested in learn each more about programm languages and art creative development.
-- 🌱 I’m currently teaching DevOps and DSA...
-- 📫 How to reach me ..
+- 🌱 I’m currently teaching Data science and visual arts.
+- 📫 shout here: edcaricaturas@gmail.com
 
 <!---
 Bruxonildo/Bruxonildo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
