@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bruxonildo Edvaldo Rodrigues here
+- 👋 Hi, I’m @Edvaldo-Rodrigues here
 - 👀 I’m interested in learn each more about programm languages and art creative development.
 - 🌱 I’m currently teaching Data science and visual arts.
 - 📫 shout here: edcaricaturas@gmail.com
